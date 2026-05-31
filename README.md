@@ -1,27 +1,27 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ██████╗ ██╗██╗  ██╗███████╗██╗         ██████╗  ██████╗ ██╗         -->
 <!-- ██╔══██╗██║╚██╗██╔╝██╔════╝██║        ██╔════╝ ██╔══██╗██║          -->
 <!-- ██████╔╝██║ ╚███╔╝ █████╗  ██║        ██║  ███╗██████╔╝██║          -->
 <!-- ██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║        ██║   ██║██╔══██╗██║          -->
 <!-- ██║     ██║██╔╝ ██╗███████╗███████╗   ╚██████╔╝██║  ██║███████╗     -->
 <!-- ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝    -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0015,70:1a0030,100:000000&height=220&text=MERON%20SHIBIRU&fontSize=56&fontColor=ff69b4&fontAlignY=45&desc=%E2%96%88%E2%96%88%20SOFTWARE%20ENGINEER%20%E2%96%88%20AI%20SYSTEMS%20%E2%96%88%20BUILDER%20%E2%96%88%E2%96%88&descSize=13&descAlignY=68&descColor=ff1493&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,30:3d1a4d,70:2a0f3d,100:1a0b2e&height=220&text=MERON%20SHIBIRU&fontSize=56&fontColor=ff1493&fontAlignY=45&desc=%E2%96%88%E2%96%88%20PIXEL%20ARCHITECT%20%E2%96%88%E2%96%88&descAlign=62&descAlignY=75&descSize=18&fontAlignX=50" alt="header">
 
 </div>
 
 <div align="center">
 
 ```
-██████████████████████████████████████████████████████████████████████████
-█                                                                        █
-█   ▓  MSc Computer Science @ USF          ▓  San Francisco, CA         █
-█   ▓  Fullstack · AI/ML · Cloud           ▓  Open to collaborate       █
-█                                                                        █
-██████████████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████
+█                                                                   █
+█   ▓  MSc Computer Science @ USF          ▓  San Francisco, CA     █
+█   ▓  Fullstack · AI/ML · Cloud           ▓  Open to collaborate   █
+█                                                                   █
+███████████████████████████████████████████████████████████████████
 ```
 
 </div>
@@ -50,7 +50,7 @@
 
 ## `> ABOUT.exe`
 
-I build systems that think — distributed AI orchestration, intelligent healthcare tooling, computer vision pipelines, and clean fullstack products. Currently deep in my MSc at USF, and obsessed with the overlap between rigorous engineering and impactful design.
+I build systems that think — distributed AI orchestration, intelligent healthcare tooling, computer vision pipelines, and clean fullstack products. Currently deep in my MSc at USF, obsessed with quantitative analysis, and always architecting at the intersection of AI × Cloud × Data.
 
 ```python
 developer = {
@@ -130,21 +130,21 @@ developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff1493&text_color=ff69b4&icon_color=ff1493&ring_color=ff1493" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=ff1493&text_color=ff69b4&icon_color=ff1493" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff1493&text_color=ff69b4&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=ff1493&text_color=ff69b4" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meron-Abera&theme=radical&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ff69b4&dates=ff69b4&stroke=ff1493" />
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meron-Abera&theme=radical&hide_border=true&background=1a0b2e&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ff1493" alt="GitHub Streak">
 
 </div>
 
 <div align="center">
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&bg_color=000000&color=ff69b4&line=ff1493&point=ffffff&area_color=ff1493&area=true&hide_border=true&custom_title=▓▓▓%20COMMIT%20ACTIVITY%20▓▓▓" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&bg_color=1a0b2e&color=ff69b4&line=ff1493&point=ffffff&area_color=ff1493&area=true&hide_border=true&custom_title=Contribution%20Matrix" alt="Activity Graph">
 
 </div>
 
@@ -153,16 +153,16 @@ developer = {
 ## `> EDUCATION.db`
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ██ MSc Computer Science                                            │
-│     University of San Francisco                      exp. May 2027  │
-├─────────────────────────────────────────────────────────────────────┤
-│  ██ BSc Software Engineering  ·  3.7 GPA                           │
-│     Addis Ababa Science & Technology University           Jul 2024  │
-├─────────────────────────────────────────────────────────────────────┤
-│  ██ Foundations of AI Engineering                                   │
-│     CodePath                                              Feb 2026  │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  ██ MSc Computer Science                                    │
+│     University of San Francisco                  exp. May 2027
+├─────────────────────────────────────────────────────────────┤
+│  ██ BSc Software Engineering  ·  3.7 GPA                    │
+│     Addis Ababa Science & Technology University      Jul 2024
+├─────────────────────────────────────────────────────────────┤
+│  ██ Foundations of AI Engineering                           │
+│     CodePath                                         Feb 2026
+└─────────────────────────────────────────────────────────────┘
 
 COURSEWORK:  Distributed Systems  ·  Advanced Algorithms  ·  System Design
              Compiler Design  ·  Computer Architecture  ·  Security
