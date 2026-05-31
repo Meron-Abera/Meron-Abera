@@ -1,168 +1,196 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ██████╗ ██╗██╗  ██╗███████╗██╗         ██████╗  ██████╗ ██╗         -->
+<!-- ██╔══██╗██║╚██╗██╔╝██╔════╝██║        ██╔════╝ ██╔══██╗██║          -->
+<!-- ██████╔╝██║ ╚███╔╝ █████╗  ██║        ██║  ███╗██████╔╝██║          -->
+<!-- ██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║        ██║   ██║██╔══██╗██║          -->
+<!-- ██║     ██║██╔╝ ██╗███████╗███████╗   ╚██████╔╝██║  ██║███████╗     -->
+<!-- ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝    -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,50:6d0040,100:0d001a&height=200&section=header&text=MERON%20SHIBIRU&fontSize=52&fontColor=f5c6e0&fontAlignY=38&desc=software%20engineer%20%E2%80%A2%20AI%20systems%20%E2%80%A2%20builder&descSize=16&descAlignY=60&descColor=c084a0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0015,70:1a0030,100:000000&height=220&text=MERON%20SHIBIRU&fontSize=56&fontColor=ff69b4&fontAlignY=45&desc=%E2%96%88%E2%96%88%20SOFTWARE%20ENGINEER%20%E2%96%88%20AI%20SYSTEMS%20%E2%96%88%20BUILDER%20%E2%96%88%E2%96%88&descSize=13&descAlignY=68&descColor=ff1493&animation=blinking" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
 ```
-▸ mscs @ university of san francisco     ▸ sf, california
-▸ fullstack · ai/ml · cloud systems      ▸ available for collaboration
+██████████████████████████████████████████████████████████████████████████
+█                                                                        █
+█   ▓  MSc Computer Science @ USF          ▓  San Francisco, CA         █
+█   ▓  Fullstack · AI/ML · Cloud           ▓  Open to collaborate       █
+█                                                                        █
+██████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/Meron-Abera"><img src="https://img.shields.io/badge/github-%23f5c6e0.svg?style=flat-square&logo=github&logoColor=1a0020&label=" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/meron-abera"><img src="https://img.shields.io/badge/linkedin-%23f5c6e0.svg?style=flat-square&logo=linkedin&logoColor=1a0020&label=" /></a>&nbsp;
-  <a href="mailto:mshibiru@dons.usfca.edu"><img src="https://img.shields.io/badge/email-%23f5c6e0.svg?style=flat-square&logo=gmail&logoColor=1a0020&label=" /></a>
+
+[![GitHub](https://img.shields.io/badge/■_GITHUB-ff1493?style=for-the-badge&logoColor=black&logo=github)](https://github.com/Meron-Abera)
+[![LinkedIn](https://img.shields.io/badge/■_LINKEDIN-ff69b4?style=for-the-badge&logoColor=black&logo=linkedin)](https://www.linkedin.com/in/meron-abera)
+[![Email](https://img.shields.io/badge/■_EMAIL-ff1493?style=for-the-badge&logoColor=black&logo=gmail)](mailto:mshibiru@dons.usfca.edu)
+
 </div>
 
 ---
 
-## about
+<div align="center">
+
+```
+░░░░░░░░░░░░░░░░░░░░░░  SYSTEM BOOT  ░░░░░░░░░░░░░░░░░░░░░░░░
+> initializing developer profile...
+> loading: distributed systems, AI architecture, full-stack...
+> status: ONLINE ██████████████████████ 100%
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
+## `> ABOUT.exe`
 
 I build systems that think — distributed AI orchestration, intelligent healthcare tooling, computer vision pipelines, and clean fullstack products. Currently deep in my MSc at USF, and obsessed with the overlap between rigorous engineering and impactful design.
 
-I like my code modular, my models well-regularized, and my commit history clean.
+```python
+developer = {
+    "name"     : "Meron Shibiru",
+    "stack"    : ["AI/ML", "Fullstack", "Cloud", "Distributed Systems"],
+    "location" : "San Francisco, CA",
+    "vibe"     : "builds things that actually work",
+    "status"   : "▓▓▓▓▓▓▓▓▓▓ BUILDING"
+}
+```
 
 ---
 
-## selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `CerberOS`
-**AI Research Orchestration OS**
-
-Distributed system coordinating 12+ autonomous AI services via gRPC. Handles multi-agent task routing, container-level isolation, and real-time observability across the full pipeline.
-
-`Python` `Docker` `Kubernetes` `gRPC` `Prometheus`
-
-</td>
-<td width="50%" valign="top">
-
-### `TamaHealth`
-**Medical Platform with NLP Automation**
-
-Full-stack healthcare platform with AI-powered prescription parsing via OCR + NLP. Reduced paperwork overhead by 80% and shipped with 95% test coverage.
-
-`Next.js` `Express` `PostgreSQL` `OCR` `NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `Smart Farm Marketplace`
-**Cal Hacks 12.0 · Computer Vision**
-
-Real-time AI produce classification system using multimodal data. Custom TensorFlow model achieved <40s end-to-end inference for inventory management.
-
-`Python` `TensorFlow` `FastAPI` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### `Gamified Resume Builder`
-**Full-Stack Side Project**
-
-XP-based resume builder with live progress tracking, collaborative editing, and backend reward logic. Includes edit history, form validation, and a full REST API.
-
-`Node.js` `PostgreSQL` `React` `REST API`
-
-</td>
-</tr>
-</table>
-
----
-
-## stack
-
-**languages**
-
-![Python](https://img.shields.io/badge/Python-1a0020?style=flat-square&logo=python&logoColor=f5c6e0)
-![Java](https://img.shields.io/badge/Java-1a0020?style=flat-square&logo=openjdk&logoColor=f5c6e0)
-![C++](https://img.shields.io/badge/C++-1a0020?style=flat-square&logo=cplusplus&logoColor=f5c6e0)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0020?style=flat-square&logo=typescript&logoColor=f5c6e0)
-![Rust](https://img.shields.io/badge/Rust-1a0020?style=flat-square&logo=rust&logoColor=f5c6e0)
-![Go](https://img.shields.io/badge/Go-1a0020?style=flat-square&logo=go&logoColor=f5c6e0)
-![SQL](https://img.shields.io/badge/SQL-1a0020?style=flat-square&logo=postgresql&logoColor=f5c6e0)
-
-**ai / ml**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0020?style=flat-square&logo=tensorflow&logoColor=f5c6e0)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0020?style=flat-square&logo=pytorch&logoColor=f5c6e0)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0020?style=flat-square&logo=scikitlearn&logoColor=f5c6e0)
-![Pandas](https://img.shields.io/badge/Pandas-1a0020?style=flat-square&logo=pandas&logoColor=f5c6e0)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a0020?style=flat-square&logoColor=f5c6e0)
-
-**infrastructure & cloud**
-
-![AWS](https://img.shields.io/badge/AWS-1a0020?style=flat-square&logo=amazonaws&logoColor=f5c6e0)
-![Azure](https://img.shields.io/badge/Azure-1a0020?style=flat-square&logo=microsoftazure&logoColor=f5c6e0)
-![Docker](https://img.shields.io/badge/Docker-1a0020?style=flat-square&logo=docker&logoColor=f5c6e0)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a0020?style=flat-square&logo=kubernetes&logoColor=f5c6e0)
-![Kafka](https://img.shields.io/badge/Kafka-1a0020?style=flat-square&logo=apachekafka&logoColor=f5c6e0)
-![Redis](https://img.shields.io/badge/Redis-1a0020?style=flat-square&logo=redis&logoColor=f5c6e0)
-
-**fullstack**
-
-![React](https://img.shields.io/badge/React-1a0020?style=flat-square&logo=react&logoColor=f5c6e0)
-![Next.js](https://img.shields.io/badge/Next.js-1a0020?style=flat-square&logo=nextdotjs&logoColor=f5c6e0)
-![Node.js](https://img.shields.io/badge/Node.js-1a0020?style=flat-square&logo=nodedotjs&logoColor=f5c6e0)
-![Spring](https://img.shields.io/badge/Spring-1a0020?style=flat-square&logo=spring&logoColor=f5c6e0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0020?style=flat-square&logo=postgresql&logoColor=f5c6e0)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0020?style=flat-square&logo=mongodb&logoColor=f5c6e0)
-
----
-
-## stats
+## `> PROJECTS.log`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d001a&title_color=f5c6e0&text_color=c084a0&icon_color=e879a8" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=f5c6e0&text_color=c084a0&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&theme=tokyo-night&bg_color=0d001a&color=f5c6e0&line=6d0040&point=e879a8&hide_border=true&custom_title=contribution+activity" />
+|  | Project | Description | Stack |
+|--|---------|-------------|-------|
+| ◈ | **CerberOS** | Distributed OS coordinating 12+ autonomous AI services via gRPC. Multi-agent routing, container isolation, real-time observability | `Python` `Docker` `K8s` `gRPC` |
+| ◈ | **TamaHealth** | Full-stack medical platform with AI-powered prescription parsing via OCR + NLP. 80% less paperwork, 95% test coverage | `Next.js` `Express` `PostgreSQL` `NLP` |
+| ◈ | **Smart Farm Marketplace** | Cal Hacks 12.0 · Real-time AI produce classification using multimodal data. Custom TensorFlow model, <40s inference | `Python` `TensorFlow` `FastAPI` `CV` |
+| ◈ | **Gamified Resume Builder** | XP-based resume builder with live progress, collaborative editing, backend reward logic, full REST API | `Node.js` `PostgreSQL` `React` |
 
 </div>
 
 ---
 
-## education
+## `> SKILLS.matrix`
 
-| | |
-|---|---|
-| **MSc Computer Science** | University of San Francisco · exp. May 2027 |
-| **BSc Software Engineering** · 3.7 GPA | Addis Ababa Science & Technology University · 2024 |
-| **Foundations of AI Engineering** | CodePath · 2026 |
+<div align="center">
 
-*Coursework: Distributed Systems · Advanced Algorithms · System Design · Compiler Design · Computer Architecture · Security · Databases · Operating Systems · AI/ML*
+**▓▓▓ LANGUAGES ▓▓▓**
+
+![Python](https://img.shields.io/badge/▓_Python-ff1493?style=flat-square&logoColor=black&logo=python)
+![Java](https://img.shields.io/badge/▓_Java-ff69b4?style=flat-square&logoColor=black&logo=openjdk)
+![C++](https://img.shields.io/badge/▓_C++-ff1493?style=flat-square&logoColor=black&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/▓_TypeScript-ff69b4?style=flat-square&logoColor=black&logo=typescript)
+![Rust](https://img.shields.io/badge/▓_Rust-ff1493?style=flat-square&logoColor=black&logo=rust)
+![Go](https://img.shields.io/badge/▓_Go-ff69b4?style=flat-square&logoColor=black&logo=go)
+![SQL](https://img.shields.io/badge/▓_SQL-ff1493?style=flat-square&logoColor=black&logo=postgresql)
+
+**▓▓▓ AI / ML ▓▓▓**
+
+![TensorFlow](https://img.shields.io/badge/▓_TensorFlow-ff1493?style=flat-square&logoColor=black&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/▓_PyTorch-ff69b4?style=flat-square&logoColor=black&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/▓_scikit--learn-ff1493?style=flat-square&logoColor=black&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/▓_Pandas-ff69b4?style=flat-square&logoColor=black&logo=pandas)
+![XGBoost](https://img.shields.io/badge/▓_XGBoost-ff1493?style=flat-square&logoColor=black)
+![NLP](https://img.shields.io/badge/▓_NLP-ff69b4?style=flat-square&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/▓_Computer_Vision-ff1493?style=flat-square&logoColor=black)
+
+**▓▓▓ CLOUD & INFRA ▓▓▓**
+
+![AWS](https://img.shields.io/badge/▓_AWS-ff1493?style=flat-square&logoColor=black&logo=amazonaws)
+![Azure](https://img.shields.io/badge/▓_Azure-ff69b4?style=flat-square&logoColor=black&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/▓_Docker-ff1493?style=flat-square&logoColor=black&logo=docker)
+![Kubernetes](https://img.shields.io/badge/▓_Kubernetes-ff69b4?style=flat-square&logoColor=black&logo=kubernetes)
+![Kafka](https://img.shields.io/badge/▓_Kafka-ff1493?style=flat-square&logoColor=black&logo=apachekafka)
+![Redis](https://img.shields.io/badge/▓_Redis-ff69b4?style=flat-square&logoColor=black&logo=redis)
+![Spark](https://img.shields.io/badge/▓_Spark-ff1493?style=flat-square&logoColor=black&logo=apachespark)
+
+**▓▓▓ FULLSTACK ▓▓▓**
+
+![React](https://img.shields.io/badge/▓_React-ff1493?style=flat-square&logoColor=black&logo=react)
+![Next.js](https://img.shields.io/badge/▓_Next.js-ff69b4?style=flat-square&logoColor=black&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/▓_Node.js-ff1493?style=flat-square&logoColor=black&logo=nodedotjs)
+![Spring](https://img.shields.io/badge/▓_Spring-ff69b4?style=flat-square&logoColor=black&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/▓_PostgreSQL-ff1493?style=flat-square&logoColor=black&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/▓_MongoDB-ff69b4?style=flat-square&logoColor=black&logo=mongodb)
+
+</div>
 
 ---
 
-## community
+## `> STATS.render()`
 
-- **Volunteer Developer** — Develop For Good *(Oct 2024 – Feb 2025)*
-- **Member** — Women in Tech @ USF *(Aug 2025 – present)*
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff1493&text_color=ff69b4&icon_color=ff1493&ring_color=ff1493" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff1493&text_color=ff69b4&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meron-Abera&theme=radical&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&sideLabels=ff69b4&dates=ff69b4&stroke=ff1493" />
+
+</div>
+
+<div align="center">
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&bg_color=000000&color=ff69b4&line=ff1493&point=ffffff&area_color=ff1493&area=true&hide_border=true&custom_title=▓▓▓%20COMMIT%20ACTIVITY%20▓▓▓" />
+
+</div>
+
+---
+
+## `> EDUCATION.db`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ██ MSc Computer Science                                            │
+│     University of San Francisco                      exp. May 2027  │
+├─────────────────────────────────────────────────────────────────────┤
+│  ██ BSc Software Engineering  ·  3.7 GPA                           │
+│     Addis Ababa Science & Technology University           Jul 2024  │
+├─────────────────────────────────────────────────────────────────────┤
+│  ██ Foundations of AI Engineering                                   │
+│     CodePath                                              Feb 2026  │
+└─────────────────────────────────────────────────────────────────────┘
+
+COURSEWORK:  Distributed Systems  ·  Advanced Algorithms  ·  System Design
+             Compiler Design  ·  Computer Architecture  ·  Security
+             Databases  ·  Operating Systems  ·  AI/ML
+```
+
+---
+
+## `> COMMUNITY.node`
+
+```
+◈  Volunteer Developer    —  Develop For Good           Oct 2024 – Feb 2025
+◈  Member                 —  Women in Tech @ USF        Aug 2025 – present
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:6d0040,100:1a0020&height=100&section=footer&fontColor=f5c6e0" />
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+█   let's build something extraordinary  ·  mshibiru@usfca    █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Meron-Abera.Meron-Abera&color=ff1493)
+![last updated](https://img.shields.io/badge/last_updated-May_2026-ff69b4?style=flat-square)
 
 </div>
