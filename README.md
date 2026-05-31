@@ -2,7 +2,7 @@
 <!-- https://raw.githubusercontent.com/Meron-Abera/Meron-Abera/main/pixel_rain_banner.svg -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0008,25:1a0a14,50:240d18,75:1a0a14,100:0d0008&height=250&text=MERON%20SHIBIRU&fontSize=64&fontColor=f9b8cc&fontAlignY=44&desc=%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%20software%20engineer%20%E2%80%A2%20ai%20systems%20%E2%80%A2%20builder%20%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA&descSize=15&descAlignY=65&descColor=e8809a&stroke=f9b8cc&strokeWidth=1&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/Meron-Abera/Meron-Abera/main/pixel_rain_banner.svg" alt="Pixel Rain Banner" />
 </div>
 
 > **✨ Pro tip:** Upload `pixel_rain_banner.svg` (included in this repo) and swap the header image above with the raw link for a live animated pixel-rain banner on your profile!
@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2200&pause=700&color=E8809A&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=55&lines=%E2%96%AA+boot+sequence+initiated+%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA%E2%96%AA+100%25;%E2%96%AA+loading+ai+%2F+cloud+%2F+fullstack+modules+...+%5BONLINE%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2200&pause=700&color=E8809A&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=55&lines=%E2[...]
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 
 ## ◈ about
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2800&pause=600&color=E8809A&width=265&height=185&lines=const+meron+%3D+%7B;++stack%3A+%5B;++++%22AI+%2F+ML%22%2C;++++%22Distributed+Systems%22%2C;++++%22Fullstack%22%2C;++++%22Cloud+Native%22;++%5D%2C;++status%3A+%22BUILDING%22;%7D%3B" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2800&pause=600&color=E8809A&width=265&height=185&lines=const+meron+%3D+%7B;++stack%3A+%5B;++++%2[...]
 
 I build systems that think — distributed AI orchestration, intelligent healthcare tooling, computer vision pipelines, and clean fullstack products that ship.
 
@@ -133,16 +133,16 @@ Currently deep in my MSc at USF, obsessed with the overlap between rigorous engi
 ## ◈ github stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0008&title_color=f9b8cc&text_color=e8809a&icon_color=f4a0b8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&hide_border=true&bg_color=0d0008&title_color=f9b8cc&text_color=e8809a&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0008&title_color=f[...]
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&hide_border=true&bg_color=0d0008&title_color=f9b8cc&text_color=e8809a&langs_coun[...]
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meron-Abera&hide_border=true&background=0d0008&ring=f9b8cc&fire=e8809a&currStreakLabel=f9b8cc&sideLabels=e8809a&dates=e8809a&stroke=f4a0b8" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meron-Abera&hide_border=true&background=0d0008&ring=f9b8cc&fire=e8809a&currStreakLabel=f9b8cc&sideLabels=e8809a&date[...]
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&bg_color=0d0008&color=e8809a&line=f9b8cc&point=f4a0b8&area_color=9e4060&area=true&hide_border=true&custom_title=contribution+graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meron-Abera&bg_color=0d0008&color=e8809a&line=f9b8cc&point=f4a0b8&area_color=9e4060&area=true&hide_border=tr[...]
 </div>
 
 <div align="center">
@@ -201,7 +201,7 @@ Currently deep in my MSc at USF, obsessed with the overlap between rigorous engi
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0008,40:240d18,100:0d0008&height=140&section=footer&text=let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=f9b8cc&fontAlignY=52&desc=mshibiru%40dons.usfca.edu&descSize=13&descColor=e8809a&descAlignY=74" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0008,40:240d18,100:0d0008&height=140&section=footer&text=let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=f9[...]
 </div>
 
 <div align="center">
