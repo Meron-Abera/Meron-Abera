@@ -39,58 +39,43 @@ Currently deep in my MSc at USF, obsessed with the overlap between rigorous engi
 <table>
 <tr>
 <td width="50%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/PROJECT-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/CerberOS-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/TYPE-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/AI%20Research%20Orchestration%20OS-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
-<sub>Distributed system coordinating <b>12+ autonomous AI services</b> via gRPC. Multi-agent routing, container isolation, real-time observability across the full pipeline.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STACK-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Python%20%C2%B7%20Docker%20%C2%B7%20Kubernetes%20%C2%B7%20gRPC%20%C2%B7%20Prometheus-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
+<img src="https://img.shields.io/badge/%E2%97%88_CerberOS-f9b8cc?style=for-the-badge&logo=linux&logoColor=1a0a12" /><br/><br/>
+<sub><b>AI Research Orchestration OS</b></sub><br/>
+<sub>Distributed system coordinating <b>12+ autonomous AI services</b> via gRPC. Multi-agent routing, container isolation, real-time observability across the full pipeline.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-f9b8cc?style=flat-square&logo=python&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/Docker-e8809a?style=flat-square&logo=docker&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/Kubernetes-f4a0b8?style=flat-square&logo=kubernetes&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/gRPC-e8809a?style=flat-square" />
+<img src="https://img.shields.io/badge/Prometheus-f9b8cc?style=flat-square&logo=prometheus&logoColor=1a0a12" />
 </td>
 <td width="50%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/PROJECT-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/TamaHealth-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/TYPE-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/AI--Powered%20Medical%20Platform-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
-<sub>Full-stack healthcare platform with AI/NLP prescription automation. Reduced paperwork by <b>80%</b>, shipped with <b>95% test coverage</b>.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STACK-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Next.js%20%C2%B7%20Express%20%C2%B7%20PostgreSQL%20%C2%B7%20OCR%20%C2%B7%20NLP-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
+<img src="https://img.shields.io/badge/%E2%97%88_TamaHealth-e8809a?style=for-the-badge&logo=heart&logoColor=1a0a12" /><br/><br/>
+<sub><b>AI-Powered Medical Platform</b></sub><br/>
+<sub>Full-stack healthcare platform with AI/NLP prescription automation. Reduced paperwork by <b>80%</b>, shipped with <b>95% test coverage</b>.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Next.js-f9b8cc?style=flat-square&logo=nextdotjs&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/Express-e8809a?style=flat-square&logo=express&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/PostgreSQL-f4a0b8?style=flat-square&logo=postgresql&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/OCR-e8809a?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-f9b8cc?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/PROJECT-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Smart%20Farm%20Marketplace-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/TYPE-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Cal%20Hacks%2012.0%20%C2%B7%20Computer%20Vision-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
-<sub>Real-time AI produce classification using multimodal data. Custom TensorFlow model — <b><40s end-to-end inference</b> for live inventory management.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STACK-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Python%20%C2%B7%20TensorFlow%20%C2%B7%20FastAPI%20%C2%B7%20CV-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
+<img src="https://img.shields.io/badge/%E2%97%88_Smart%20Farm%20Marketplace-f4a0b8?style=for-the-badge&logoColor=1a0a12" /><br/><br/>
+<sub><b>🏆 Cal Hacks 12.0</b></sub><br/>
+<sub>Real-time AI produce classification using multimodal data. Custom TensorFlow model — <b><40s end-to-end inference</b> for live inventory.</sub><br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-f9b8cc?style=flat-square&logo=tensorflow&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/FastAPI-e8809a?style=flat-square&logo=fastapi&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/Computer%20Vision-f4a0b8?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-f9b8cc?style=flat-square&logo=python&logoColor=1a0a12" />
 </td>
 <td width="50%" align="center">
-<br/>
-<img src="https://img.shields.io/badge/PROJECT-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Gamified%20Resume%20Builder-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/TYPE-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Full--Stack%20Side%20Project-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
-<sub>XP-based resume builder with live progress tracking, collaborative editing, and backend reward logic. Full REST API, edit history, form validation.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STACK-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/React%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20REST%20API-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/><br/>
+<img src="https://img.shields.io/badge/%E2%97%88_Gamified%20Resume%20Builder-e8809a?style=for-the-badge&logoColor=1a0a12" /><br/><br/>
+<sub><b>Full-Stack Side Project</b></sub><br/>
+<sub>XP-based resume builder with live progress tracking, collaborative editing, and backend reward logic. Full REST API, edit history, form validation.</sub><br/><br/>
+<img src="https://img.shields.io/badge/React-f9b8cc?style=flat-square&logo=react&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/Node.js-e8809a?style=flat-square&logo=nodedotjs&logoColor=1a0a12" />
+<img src="https://img.shields.io/badge/PostgreSQL-f4a0b8?style=flat-square&logo=postgresql&logoColor=1a0a12" />
 </td>
 </tr>
 </table>
@@ -98,33 +83,22 @@ Currently deep in my MSc at USF, obsessed with the overlap between rigorous engi
 
 ◈ tech stack
 <div align="center">
-<img src="https://img.shields.io/badge/LANGUAGES-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Python%20%C2%B7%20Java%20%C2%B7%20C%2B%2B%20%C2%B7%20Rust%20%C2%B7%20Go%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript%20%C2%B7%20SQL-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
+languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,go,ts,js,html,css&theme=dark&perline=9" />
-<br/><br/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20DATA-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/TensorFlow%20%C2%B7%20PyTorch%20%C2%B7%20Scikit--Learn%20%C2%B7%20Pandas%20%C2%B7%20XGBoost%20%C2%B7%20NLP%20%C2%B7%20Computer%20Vision-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />&nbsp;&nbsp;
+ai · ml · data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />  
 <img src="https://img.shields.io/badge/Scikit--Learn-f9b8cc?style=flat-square&logo=scikitlearn&logoColor=1a0a12" />
 <img src="https://img.shields.io/badge/Pandas-e8809a?style=flat-square&logo=pandas&logoColor=1a0a12" />
 <img src="https://img.shields.io/badge/XGBoost-f4a0b8?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-f9b8cc?style=flat-square" />
 <img src="https://img.shields.io/badge/Computer%20Vision-e8809a?style=flat-square" />
 <img src="https://img.shields.io/badge/RL-f4a0b8?style=flat-square" />
-<br/><br/>
-<img src="https://img.shields.io/badge/CLOUD%20%2F%20DEVOPS-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/AWS%20%C2%B7%20Azure%20%C2%B7%20Docker%20%C2%B7%20Kubernetes%20%C2%B7%20Kafka%20%C2%B7%20Redis%20%C2%B7%20Spark-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git&theme=dark&perline=6" />&nbsp;&nbsp;
+cloud · devops
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git&theme=dark&perline=6" />  
 <img src="https://img.shields.io/badge/Kafka-f9b8cc?style=flat-square&logo=apachekafka&logoColor=1a0a12" />
 <img src="https://img.shields.io/badge/Redis-e8809a?style=flat-square&logo=redis&logoColor=1a0a12" />
 <img src="https://img.shields.io/badge/Spark-f4a0b8?style=flat-square&logo=apachespark&logoColor=1a0a12" />
-<br/><br/>
-<img src="https://img.shields.io/badge/FULLSTACK-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Express%20%C2%B7%20Spring%20%C2%B7%20PostgreSQL%20%C2%B7%20MongoDB-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
+fullstack
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,postgres,mongodb&theme=dark&perline=7" />
 </div>
 
@@ -145,48 +119,37 @@ Currently deep in my MSc at USF, obsessed with the overlap between rigorous engi
 
 ◈ education
 <div align="center">
-<img src="https://img.shields.io/badge/DEGREE-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/MSc%20Computer%20Science-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
-<img src="https://img.shields.io/badge/SCHOOL-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/University%20of%20San%20Francisco-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/YEAR-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/exp.%20May%202027-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/%E2%96%AA_MSc%20Computer%20Science-f9b8cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/University%20of%20San%20Francisco%20%C2%B7%20exp.%20May%202027-1e0d16?style=for-the-badge&color=1e0d16" />
 <br/><br/>
-<img src="https://img.shields.io/badge/DEGREE-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/BSc%20Software%20Engineering%20%C2%B7%203.7%20GPA-1e0d16?style=for-the-badge&color=1e0d16" />
-<br/>
-<img src="https://img.shields.io/badge/SCHOOL-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Addis%20Ababa%20Science%20%26%20Technology%20University-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/YEAR-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Jul%202024-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/%E2%96%AA_BSc%20Software%20Engineering%20%C2%B7%203.7%20GPA-e8809a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AASTU%20%C2%B7%20Jul%202024-1e0d16?style=for-the-badge&color=1e0d16" />
 <br/><br/>
-<img src="https://img.shields.io/badge/CERT-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Foundations%20of%20AI%20Engineering-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/VIA-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/CodePath-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/YEAR-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Feb%202026-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/%E2%96%AA_Foundations%20of%20AI%20Engineering-f4a0b8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CodePath%20%C2%B7%20Feb%202026-1e0d16?style=for-the-badge&color=1e0d16" />
 <br/><br/>
-<img src="https://img.shields.io/badge/COURSEWORK-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Distributed%20Systems%20%C2%B7%20Advanced%20Algorithms%20%C2%B7%20System%20Design%20%C2%B7%20Compiler%20Design%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Security%20%C2%B7%20Databases%20%C2%B7%20OS%20%C2%B7%20AI%2FML-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-f9b8cc?style=flat-square" />
+<img src="https://img.shields.io/badge/Advanced%20Algorithms-e8809a?style=flat-square" />
+<img src="https://img.shields.io/badge/System%20Design-f4a0b8?style=flat-square" />
+<img src="https://img.shields.io/badge/Compiler%20Design-f9b8cc?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Architecture-e8809a?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-f4a0b8?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-f9b8cc?style=flat-square" />
+<img src="https://img.shields.io/badge/Operating%20Systems-e8809a?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-f4a0b8?style=flat-square" />
 </div>
 
 ◈ community
 <div align="center">
-<img src="https://img.shields.io/badge/ROLE-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Volunteer%20Developer-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/ORG-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Develop%20For%20Good-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/WHEN-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Oct%202024%20%E2%80%93%20Feb%202025-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/%E2%96%AA_Volunteer%20Developer-f9b8cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Develop%20For%20Good%20%C2%B7%20Oct%202024%20%E2%80%93%20Feb%202025-1e0d16?style=for-the-badge&color=1e0d16" />
 <br/><br/>
-<img src="https://img.shields.io/badge/ROLE-f9b8cc?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Member-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/ORG-f4a0b8?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Women%20in%20Tech%20%40%20USF-1e0d16?style=for-the-badge&color=1e0d16" />
-<img src="https://img.shields.io/badge/WHEN-e8809a?style=for-the-badge&labelColor=9e4060&color=1e0d16" />
-<img src="https://img.shields.io/badge/Aug%202025%20%E2%80%93%20present-1e0d16?style=for-the-badge&color=1e0d16" />
+<img src="https://img.shields.io/badge/%E2%96%AA_Member-e8809a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Women%20in%20Tech%20%40%20USF%20%C2%B7%20Aug%202025%20%E2%80%93%20present-1e0d16?style=for-the-badge&color=1e0d16" />
+<br/><br/>
+<img src="https://img.shields.io/badge/%E2%96%AA_Member-f4a0b8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rewriting%20the%20Code%20%C2%B7%20present-1e0d16?style=for-the-badge&color=1e0d16" />
+</div>
 </div>
 
 <div align="center">
