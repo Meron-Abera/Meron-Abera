@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/Meron-Abera"><img src="https://img.shields.io/badge/GITHUB-f9b8cc?style=for-the-badge&logo=github&logoColor=1a0a12" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/meron-abera"><img src="https://img.shields.io/badge/LINKEDIN-e8809a?style=for-the-badge&logo=linkedin&logoColor=1a0a12" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/meron-a-shibiru/"><img src="https://img.shields.io/badge/LINKEDIN-e8809a?style=for-the-badge&logo=linkedin&logoColor=1a0a12" /></a>&nbsp;
   <a href="mailto:mshibiru@dons.usfca.edu"><img src="https://img.shields.io/badge/EMAIL-f4a0b8?style=for-the-badge&logo=gmail&logoColor=1a0a12" /></a>
 </div>
 
@@ -102,7 +102,7 @@ fullstack
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,postgres,mongodb&theme=dark&perline=7" />
 </div>
 
-◈ github stats
+<!-- ◈ github stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meron-Abera&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0008&title_color=f9b8cc&text_color=e8809a&icon_color=f4a0b8" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron-Abera&layout=compact&hide_border=true&bg_color=0d0008&title_color=f9b8cc&text_color=e8809a&langs_count=8" />
@@ -116,7 +116,7 @@ fullstack
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Meron-Abera&theme=radical&column=4&margin-w=8&no-frame=true" />
 </div>
-
+-->
 ◈ education
 <div align="center">
 <img src="https://img.shields.io/badge/%E2%96%AA_MSc%20Computer%20Science-f9b8cc?style=for-the-badge" />
