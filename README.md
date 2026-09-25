@@ -31,7 +31,6 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2800&pause=600&color=E8809A&width=265&height=185&lines=const+meron+%3D+%7B;++stack%3A+%5B;++++%22AI+%2F+ML%22%2C;++++%22Distributed+Systems%22%2C;++++%22Fullstack%22%2C;++++%22Cloud+Native%22;++%5D%2C;++status%3A+%22BUILDING%22;%7D%3B" />
 I build systems that think - distributed AI orchestration, intelligent healthcare tooling, computer vision pipelines, and clean fullstack products that ship.
-Currently deep in my MSc at USF, obsessed with the overlap between rigorous engineering and impactful design. I like my code modular, my models well-regularized, and my commit history clean.
 <br clear="right"/>
 
 ◈ selected work
